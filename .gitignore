@@ -1,0 +1,26 @@
+# Dependencies & Virtual Environments
+node_modules/
+frontend/node_modules/
+python/
+venv/
+git/
+.venv/
+__pycache__/
+*.pyc
+
+# Build outputs
+.next/
+frontend/.next/
+dist/
+build/
+out/
+
+# Temporary files & uploaded media
+*.wav
+*.mp4
+*.zip
+*.log
+.DS_Store
+voxverify_voice_*/
+voxverify_video_*/
+voxverify_mm_*/
